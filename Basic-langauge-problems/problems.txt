@@ -1,0 +1,150 @@
+1 Simple Calculator
+Write a program that takes two numbers and an operator (+, -, *, /) as input and performs the corresponding operation. Use functions for each operation.
+
+2 Even or Odd
+Write a function that takes an integer as input and returns whether the number is even or odd.
+
+3 Greatest of Three Numbers
+Write a program that takes three numbers as input and determines the largest among them using conditional statements.
+
+4 Factorial of a Number
+Write a function that calculates the factorial of a given number using a loop.
+
+5 Prime Number Check
+Write a function that checks whether a given number is prime or not.
+
+6 Number Reversal
+Write a program that takes an integer input and prints its reverse. Example: 1234 → 4321.
+
+7 Grade Calculator
+Write a program that takes marks (out of 100) as input and prints the corresponding grade based on the following criteria:
+
+90-100: A
+80-89: B
+70-79: C
+60-69: D
+Below 60: Fail
+
+8 Leap Year Checker
+Write a function that checks if a given year is a leap year.
+
+9 Simple Interest Calculator
+Write a program that calculates simple interest using the formula:
+
+𝑆
+𝐼
+=
+𝑃
+×
+𝑅
+×
+𝑇
+100
+SI= 
+100
+P×R×T
+​
+ 
+where P is the principal amount, R is the rate of interest, and T is the time in years.
+
+10 Sum of Digits
+Write a function that takes a number as input and returns the sum of its digits. Example: 123 → 1 + 2 + 3 = 6
+
+
+
+11 Solid Square Pattern
+
+*****
+*****
+*****
+*****
+*****
+
+
+12 Right-Angled Triangle (Left-Aligned)
+
+*
+**
+***
+****
+*****
+
+
+13 Right-Angled Triangle (Right-Aligned)
+
+    *
+   **
+  ***
+ ****
+*****
+
+
+14 Inverted Right-Angled Triangle
+
+*****
+****
+***
+**
+*
+
+15 Pyramid Pattern
+
+    *    
+   ***   
+  *****  
+ ******* 
+*********
+
+
+16 Diamond Pattern
+
+    *    
+   ***   
+  *****  
+ ******* 
+*********
+ *******  
+  *****  
+   ***   
+    *    
+
+
+17 Number Pyramid
+
+    1    
+   121   
+  12321  
+ 1234321 
+123454321
+
+
+18 Floyd's Triangle
+
+1  
+2 3  
+4 5 6  
+7 8 9 10  
+11 12 13 14 15
+
+
+
+19 Butterfly Pattern
+
+*       *
+**     **
+***   ***
+**** ****
+*********
+**** ****
+***   ***
+**     **
+*       *
+
+
+20 Hollow Rectangle
+
+*****
+*   *
+*   *
+*   *
+*****   
