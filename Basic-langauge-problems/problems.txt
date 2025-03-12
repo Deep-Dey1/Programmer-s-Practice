@@ -15,37 +15,15 @@ Write a function that checks whether a given number is prime or not.
 
 6 Number Reversal
 Write a program that takes an integer input and prints its reverse. Example: 1234 → 4321.
-
-7 Grade Calculator
-Write a program that takes marks (out of 100) as input and prints the corresponding grade based on the following criteria:
-
-90-100: A
-80-89: B
-70-79: C
-60-69: D
-Below 60: Fail
-
-8 Leap Year Checker
+ 
+7 Leap Year Checker
 Write a function that checks if a given year is a leap year.
 
-9 Simple Interest Calculator
-Write a program that calculates simple interest using the formula:
+8 Nth prime number calculator
+Calculate the nth prime number of the number series 
 
-𝑆
-𝐼
-=
-𝑃
-×
-𝑅
-×
-𝑇
-100
-SI= 
-100
-P×R×T
-​
- 
-where P is the principal amount, R is the rate of interest, and T is the time in years.
+9 fibonacci series print 
+print the fibbonacci series upto the nth nnumber 
 
 10 Sum of Digits
 Write a function that takes a number as input and returns the sum of its digits. Example: 123 → 1 + 2 + 3 = 6
